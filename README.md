@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by jamoons.*
+*This project has been created as part of the 42 curriculum by Jarno Moons.*
 
 # Codexion
 
@@ -23,7 +23,7 @@ Requests are stored in a custom priority queue implemented as a binary heap.
 
 ### Compilation
 
-The project uses a `Makefile` and is compiled with:
+The project uses a `Makefile` and is compiled with `cc` using::
 
 ```bash
 -Wall -Wextra -Werror -pthread
